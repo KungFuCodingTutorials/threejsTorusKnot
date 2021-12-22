@@ -1,5 +1,5 @@
 # threejsTorusKnot
-This is a simple project were i want to share how it's easy to add a 3D object on our project.
+This is a simple project where i want to share how it's easy to add a 3D object to our project.
 
 -- IMPORTANT --
 If you want to try this project and do you want to run it locally (e.g. like navigate the file system with the browser), you will receive an error due to CORS policy.
